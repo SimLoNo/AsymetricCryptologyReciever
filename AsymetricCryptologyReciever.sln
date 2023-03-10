@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsymetricCryptologyReciever", "AsymetricCryptologyReciever\AsymetricCryptologyReciever.csproj", "{4D6EE33F-8395-40EC-9045-09BEC83C4374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D6EE33F-8395-40EC-9045-09BEC83C4374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6EE33F-8395-40EC-9045-09BEC83C4374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6EE33F-8395-40EC-9045-09BEC83C4374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6EE33F-8395-40EC-9045-09BEC83C4374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CD9BF33-67C4-4CC7-800D-86AB25330D37}
+	EndGlobalSection
+EndGlobal
